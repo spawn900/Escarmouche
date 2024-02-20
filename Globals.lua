@@ -25,7 +25,7 @@ function CreateLocalizationInfo()
 		"/es show - Zeigt das Fenster an.\n" ..
 		"/es hide - Blendet das Fenster aus.\n" ..
 		"/es alt - Alt-Taste gedr\195\188ckt halten, um das Symbol zu verschieben.\n" ..
-		"/es toggle - Fenster anzeigen/ausblenden.\n\n" ..
+		"/es toggle - Fenster anzeigen/ausblenden.\n" ..
 		"/es esc - Aktiviert/Deaktiviert die Escape-Taste, um das Fenster zu schlie\195\159en.";
 
 	elseif Turbine.Engine.GetLanguage() == Turbine.Language.French then
